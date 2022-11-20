@@ -1,7 +1,3 @@
-"""
-#   Qin Yang 400420584
-#   Midterm Question 1:
-"""
 import numpy as np
 import matplotlib.pyplot as plt
 
